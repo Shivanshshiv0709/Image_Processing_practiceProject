@@ -1,0 +1,20 @@
+{
+  "name": "image-processing-fullstack",
+  "version": "1.0.0",
+  "description": "<div float=\"left\" align=\"middle\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3mrhussein/Image-Processing-Fullstack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3mrhussein/Image-Processing-Fullstack/issues"
+  },
+  "homepage": "https://github.com/3mrhussein/Image-Processing-Fullstack#readme"
+}
